@@ -4,11 +4,13 @@ This is the machine learning project that deals with prediction of game out come
 COMP721- Machine Learning
 Project Report
 The National Basketball Association (NBA) Prediction
-Kamlin Pillay– 217047298
-Luthando Nxumalo- 220111032
-Merwyn Moodly- 219095202
-Siphiwe Maphalala- 217034316
-Sthembiso Mkhwanazi- 217058845
+Kamlin Pillay– 
+Luthando Nxumalo- 
+Merwyn Moodly-
+Siphiwe Maphalala- 
+Sthembiso Mkhwanazi- 
+
+
 Abstract
 The NBA is the premier basketball league in the world. The growth of the sports betting industry as
 well as the increasing integration of machine learning in sports science and statistical analysis has
